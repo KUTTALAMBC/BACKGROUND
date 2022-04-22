@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BACKGROUND</title>
+    
+   
+</head>
+<body>
+    <script>
+        for(var i=0; i<=10; i++) {
+    var myDiv=document.createElement("div");
+    myDiv.style.height=Math.random() * 100 + "px";
+    myDiv.style.width=Math.random() * 100 + "px";
+    myDiv.style.marginBottom = "5px"
+    var r = Math.random() * 255;
+    var g = Math.random() * 255;
+    var b = Math.random() * 255;
+
+    myDiv.style.backgroundColor= "rgb(" + r + "," + g + ","+ b +")";
+
+    myDiv.style.position ="absolute";
+    myDiv.style.left=Math.random() * 800 +"px"
+    myDiv.style.top=Math.random() * 800 +"px"
+
+    myDiv.addEventListener('click',function(){
+         alert("YOU CLICKED MEE")
+    })
+
+    document.body.appendChild(myDiv);
+}
+    </script>
+</body>
+</html>
+
+
+

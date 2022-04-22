@@ -1,0 +1,115 @@
+/*.logo{
+    background-color:black;
+   color: aliceblue;
+   
+}
+.nav{
+    background-color:black;
+   color: aliceblue;
+   font-size: 50px;
+  
+   padding-top: 100px;
+   padding-left: 100px;
+}
+.bigbox{
+    width: 70%;
+    border-radius: 20px;
+    height: 450px;
+    margin-top: 70px;
+    background-color: gray;
+}
+.search{
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: black;
+}
+.box-s1{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.box-s2{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.box-s3{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.hori-box{
+    width: 100%;
+            height: 150px;
+            margin-top: 50px;
+            border-radius: 20px;
+            background-color: gray;
+}*/
+.container-fluid {
+    background-color:black;
+    text-align: center;
+    height:230px;
+    color: white;
+    font-size: 50px;
+    padding: 10px; 
+ }
+
+.nav{
+    
+    height:230px;
+    color: white;
+    font-size: 50px;
+    padding-top: 100px;
+    padding-left: 200px;
+}  
+.bigbox{
+    width: 70%;
+    border-radius: 20px;
+    height: 200px;
+    margin-top: 70px;
+    background-color: gray;
+}
+.search{
+    border-radius: 20px;
+    margin-top: 70px;
+    background-color: black;
+    padding-top: 10px;
+    width: 100%;
+}
+.bar-color{
+    background-color:black;
+}
+.box-s1{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.box-s2{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.box-s3{
+    width: 100%;
+    height: 150px;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: gray;
+}
+.hori-box{
+    width: 100%;
+            height: 150px;
+            margin-top: 50px;
+            border-radius: 20px;
+            background-color: gray;
+}
